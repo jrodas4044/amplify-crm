@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-crm-staging-13920-authRole",
+      "UnauthRoleArn": "arn:aws:iam::359486832732:role/amplify-crm-staging-13920-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::359486832732:role/amplify-crm-staging-13920-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-crm-staging-13920-deployment",
+      "UnauthRoleName": "amplify-crm-staging-13920-unauthRole",
+      "StackName": "amplify-crm-staging-13920",
+      "StackId": "arn:aws:cloudformation:us-east-1:359486832732:stack/amplify-crm-staging-13920/85470510-d289-11ed-9fa2-0eb19aaeb30f",
+      "AmplifyAppId": "dtkjfn2p2o95i"
+    },
+    "categories": {
+      "auth": {
+        "CRM": {}
+      }
+    }
+  }
+}
